@@ -4,21 +4,33 @@ A project for a 3D printed LED lit balisong for lightshows and performances.  Al
 
 # Additional Parts
 
+## Main Structure
+The STLs for the laser cut structures (black ABS plastic) are missing.
+
 ## Balisong Parts
 Some hardware is needed to assemble the balisong structure.  
 
 * Handles
-  * 10x Small Pivot Barrels (measurements pending)
+  * 10x 1/2" x 1/8" Pivot Barrels
   * 20x T-6 Torx screws
 * Center Pivot
-  * 2x Large Pivot Barrels (measurements pending)
+  * 2x 1/2" x 3/16" Pivot Barrels
   * 4x T-10 Torx screws
+  * 2x brass bushings, 1/2" OD, 3/6" ID
 
 This site seems to be the best source but actual parts will need the measurements:
 https://usaknifemaker.com/shop-categories/folding-knife-parts/pivots-pivot-lap.html
 
 ## LEDs
 The original designs use the **eLite Flow V2** gloving microlights from **EmazingLights.com**, however these have since been discontinued.  It seems like similar ones are available here: https://futuristiclights.com/products/ion-c2c-led-microlight  but fitment is unknown.
+
+# Notes
+* Sub-section weights with small pivots, LEDs, and battery, no large pivot.  Including this information primarily for balancing.  It seems like the original is tuned so the blade section is 1/2 the weight of a handle section
+  * Handle: 1.69 oz
+  * Blade: 0.85 oz
+* Thickness of ABS laser cut sections
+  * handle section: 5mm
+  * blade: 2.4mm or .095in
 
 # Credits
 Links to original artifacts
