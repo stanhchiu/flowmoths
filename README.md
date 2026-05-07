@@ -28,7 +28,7 @@ A knife to cut around the buttons will be needed, along with the standard suppor
 # Additional Parts
 
 ## Balisong Parts
-Some hardware is needed to assemble the balisong structure.  
+Some hardware is needed to assemble the balisong structure.  [USA Knife Maker](https://usaknifemaker.com/shop-categories/folding-knife-parts/pivots-pivot-lap.html) seems to be the best source.
 
 * Handles
   * 8x 1/2" x 1/8" Pivot Barrels
@@ -41,11 +41,10 @@ Some hardware is needed to assemble the balisong structure.
   * 4x T-9 Torx screws
   * 4x brass bushings, 1/2" OD, 3/6" ID
 
-This site seems to be the best source but actual parts will need the measurements:
-https://usaknifemaker.com/shop-categories/folding-knife-parts/pivots-pivot-lap.html
-
 ## LEDs
-The original designs use the **eLite Flow V2** gloving microlights from **EmazingLights.com**, however these have since been discontinued.  It seems like similar ones are available here: https://futuristiclights.com/products/ion-c2c-led-microlight  but fitment is unknown.
+The original designs use the **eLite Flow V2** gloving microlights from **EmazingLights.com**, however these have since been discontinued.
+
+The [Aeos Microlight](https://www.glow-leds.com/products/aeos_microlight) is a drop-in replacement.
 
 # Assembly
 
